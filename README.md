@@ -13,7 +13,7 @@ Fixed PHP releases: **8.5.12, 8.4.27, 8.3.36, 8.2.35**. PHP 8.1 and older are en
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/php2shell-check.git
+git clone https://github.com/suman99pro/php2shell-check.git
 cd php2shell-check
 sudo bash php2shell-check.sh --webroot /var/www
 echo $?
